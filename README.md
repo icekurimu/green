@@ -8,7 +8,7 @@ First, run the development server:
 npm run dev
 ```
 
-Open your browser to see the result.
+Open your browser to see the .
 
 You can start editing your project in Plasmic Studio. The page auto-updates as you edit the project.
 
